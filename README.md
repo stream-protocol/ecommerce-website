@@ -8,8 +8,9 @@ Web3 eCommerce website for sneakers
 - Add/Create Solana blockchain, and Solana Pay payment support
 - Add SteamPay brand asset/logo, and powered by Solana Pay
 - Add/Create StreaPay payment button and brand designs
-- Create/add and support web3 payments
-- Mobile wallet and payment support. Add QR-code payment feature
+- Add/Create, support web3 payments
+- Add/Create Mobile wallets features: Solflare, Phantom, flow, kite pay etc.. 
+- Add/Create QR-code payment features
 - Add/Create USDC, EURC stablecoin support. Add currency icons, logos etc..
 - Add/Create API
 - Add/Create and change Stream Procotol / StreamPay marketing protoducst example. streetwears with logo etc..
