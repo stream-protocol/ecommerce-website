@@ -5,7 +5,7 @@ Web3 eCommerce website for sneakers
 
 ### Developments
 
-- Add/Create Solana blockchain, and Solana Pay payment support
+- Add/Create Blockchain/network select features. Add Solana, and Solana Pay payment support
 - Add SteamPay brand asset/logo, and powered by Solana Pay
 - Add/Create StreaPay payment button and brand designs
 - Add/Create, support web3 payments
