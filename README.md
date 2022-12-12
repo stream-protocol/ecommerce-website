@@ -1,4 +1,4 @@
-# eCommerce Website Demo
+# Web3 eCommerce Website Demo
 
 Web3 eCommerce website for sneakers
 
