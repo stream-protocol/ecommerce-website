@@ -1,4 +1,3 @@
-
 const buttons=document.querySelectorAll('.button-light');
 const indicator = document.querySelector(".indicator");
 const homeImg=document.querySelector('.home__img');
