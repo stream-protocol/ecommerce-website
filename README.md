@@ -29,3 +29,6 @@ Features:
 - Cross-Chain, Blockhain payments support
 - Circle API. EURC and USDC stablecoin support
 - Add/Create StreamPay/Solana Pay support
+
+### Features:
+
