@@ -1,6 +1,16 @@
-# Web3 eCommerce Website Demo
+<div align="center">
+    <img src="img/streampay-icon-logo.png" width=90>
+    <h1>StreamPay</h1>
+    <strong>eCommerce demo website for sneakers</strong>
+</div>
+<br>
 
-Web3 eCommerce website for sneakers
+![](https://img.shields.io/badge/Build%20On-Stream%20Protocol-blue) ![](https://img.shields.io/badge/Available%20for-Devnet%20%26%20Testnet-blue)
+
+
+## The Stream eCommerce Solution for Global Online Merchants 
+
+![world](https://#)
 
 
 ### Developments
