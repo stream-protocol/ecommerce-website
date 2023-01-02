@@ -9,6 +9,11 @@
 </div>
 <br>
 
+### Description
+
+Solana Payment infrastructure for web3 businesses, where you can get started accepting crypto payments. StreamPay Checkout is a solution for businesses to accept Web3 Payments with ease.
+
+
 ### Developments
 
 - Add/Create Blockchain/network select features. Add Solana, and Solana Pay payment support
