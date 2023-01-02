@@ -1,4 +1,4 @@
-![StreamPay](https://i.imgur.com/ZpgeUEr.png)
+![StreamPay](https://i.imgur.com/Afpp3Sd.png)
 
 ![](https://img.shields.io/badge/Build%20On-Stream%20Protocol-blue) ![](https://img.shields.io/badge/Available%20for-Devnet%20%26%20Testnet-blue)
 
